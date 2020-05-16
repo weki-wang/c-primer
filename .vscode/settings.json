@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "wait.h": "c",
+        "fcntl.h": "c",
+        "unistd.h": "c",
+        "types.h": "c",
+        "signal.h": "c",
+        "cctype": "c",
+        "streambuf": "c",
+        "*.tcc": "c",
+        "csignal": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "ipc.h": "c",
+        "limits": "c",
+        "tcp.h": "c",
+        "ip.h": "c",
+        "netdb.h": "c",
+        "string": "cpp"
+    }
+}
